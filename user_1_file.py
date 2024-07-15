@@ -7,3 +7,4 @@ class Person:
         self.age = age
         self.password = password
         self.email = email
+        self.points = 0
